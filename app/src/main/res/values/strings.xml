@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Note Taker</string>
+    <string name="calendar">Calendar</string>
+</resources>
